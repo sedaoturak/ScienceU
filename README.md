@@ -1,4 +1,4 @@
-# ScienceU - Make It Matter: Exploring sustainable fuel options with computer simulations
+# ScienceU - Make It Matter: Exploring sustainable fuel options with computer simulations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sedaoturak/ScienceU/Code_ScienceU.ipynb]
 
 This tutorial was prepared to introduce materials modeling tools to high school students in the scope of [ScienceU - Make It Matter](https://science.psu.edu/outreach/scienceu/makeitmatter) camp at Penn State in 2023.
 
